@@ -1,0 +1,59 @@
+
+#prodiv{
+	position: absolute;
+	top: 20px;
+	left: 10px;
+}
+
+#probut{
+	font-family: 'Lobster';
+	font-size: 30px;
+	color: white;
+	background-color: black;
+	padding: 10px;
+	border-color: white;
+	border-style: solid;
+}
+
+#probut:hover{
+	text-decoration: none;
+	color: black;
+	background-color: white;
+	border-style: solid;
+	border-color: black;
+}
+
+#meat{
+	background-color: lightblue;
+	text-align: center;
+	color: white;
+	cursor: default;
+} 
+
+.title{
+	font-family: "Helvetica";
+	font-size: 80px;
+}
+
+.info{
+	font-family: "Helvetica";
+	font-size: 40px;
+}
+
+.in{
+	display: inline;
+}
+
+#logo{
+	width: 100px;
+	height: 100px;
+}
+
+#unit{
+	color: white;
+}
+
+#unit:hover{
+	color: black;
+	text-decoration: none;
+}
